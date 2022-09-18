@@ -8,8 +8,9 @@ This project aims to create a general purpose hardware platform that can be used
 * ESP32 Wroom board - ESP32 S3 based 
 
 ## Project directory layout
-- docs, contains general documents and schematics in PDF format
-- schematics, contains project EAGLE files
+- docs, contains general documents
+- schematics,  contains schematics in PDF format
+- EAGLE, contains project EAGLE files
 
 ## Project updates
 220913 - repo init, added project doc & rev. 0.9 of ESP32 controller board
