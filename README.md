@@ -5,10 +5,10 @@ This project aims to create a general purpose hardware platform that can be used
 
 ## Boards
 ### Controllers - controller boards with a general purpose CPU, exposing a standard bus interface (see B2BCB specifications)
-* ESP32 Wroom board - ESP32 S3 based 
+* ESP32 Wroom board Rev. B - ESP32 S3 based 
 
 ### Debug - debug, testing boards
-* Debug Board, mating board useful for debug and testing purposes
+* Debug Board Rev. A, mating board useful for debug and testing purposes
 
 ## Project directory layout
 - docs, contains general documents
@@ -17,7 +17,9 @@ This project aims to create a general purpose hardware platform that can be used
 
 ## Project updates
 220913 - repo init, added project doc & rev. 0.9 of ESP32 controller board
+
 220922 - added debug board, added Rev. B of control board
+
 220927 - updated debug board to Rev. A (added bottom connectors to allow tests of stacked boards)
 
 ## LIMITATION OF LIABILITY.
