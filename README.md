@@ -1,4 +1,4 @@
-# e-bionic
+# enable-it
 e-Nable Italia Bionic Platform
 
 This project aims to create a general purpose hardware platform that can be used to develop bionic/electronics controlled devices
